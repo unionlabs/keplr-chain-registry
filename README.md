@@ -11,7 +11,7 @@
 > yarn validate evm/{your file.json}
 > ```
 >
-> READ THE GUIDELINES BELLOW CAREFULLY, PAYING PARTICULAR ATTENTION TO THE "features" IN THE [[REQUIREMENT DETAILS for Cosmos-based chains](#cosmos-sdk-based-chain-registration-form-requirement-details)] and [[REQUIREMENT DETAILS for EVM-based chains](#evm-based-chain-registration-form-requirement-details)].
+> READ THE GUIDELINES BELOW CAREFULLY, PAYING PARTICULAR ATTENTION TO THE "features" IN THE [[REQUIREMENT DETAILS for Cosmos-based chains](#cosmos-sdk-based-chain-registration-form-requirement-details)] and [[REQUIREMENT DETAILS for EVM-based chains](#evm-based-chain-registration-form-requirement-details)].
 
 # Guidelines for Community-Driven Non-Native Chain Integration
 
@@ -32,7 +32,7 @@ To make a pull request, please carefully read and follow the guidelines below. A
 
 # Requirements and Preparation
 
-This guildline outlines the basic information that is required for registering a chain to Keplr wallet. Please note that your request does not always guarantee integrations and updates; upon your submission, Keplr team will go through a minimal verification process to see if there is any security issue or any missing information.
+This guideline outlines the basic information that is required for registering a chain to Keplr wallet. Please note that your request does not always guarantee integrations and updates; upon your submission, Keplr team will go through a minimal verification process to see if there is any security issue or any missing information.
 
 Once approved, the Keplr browser extension will show the tag “Community-Driven” on the chain connection page, to let the users be aware that the integration was requested and implemented by the community and the Keplr team has gone through the verification process.
 
